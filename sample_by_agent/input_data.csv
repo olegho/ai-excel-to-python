@@ -1,0 +1,6 @@
+Name,Quantity,Price,Discount%,Tax_Rate
+Product A,10,25.5,0.1,0.085
+Product B,5,15.75,0.1,0.085
+Product C,8,30.0,0.1,0.085
+Product D,12,8.25,0.1,0.085
+Product E,6,45.0,0.1,0.085 
